@@ -28,7 +28,7 @@ interface AppPage {
 const appPages: AppPage[] = [
   {
     title: 'HOME',
-    url: '/home',
+    url: '/',
     iosIcon: homeSharp,
     mdIcon: homeSharp
   },

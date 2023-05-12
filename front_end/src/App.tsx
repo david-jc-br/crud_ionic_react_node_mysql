@@ -42,9 +42,9 @@ const App: React.FC = () => {
           <Menu />
           <IonRouterOutlet id="main">
             <Route path="/" exact={true}>
-              <Redirect to="/home" />
+              <Redirect to="/" />
             </Route>
-            <Route path="/home" exact={true}>
+            <Route path="/" exact={true}>
               <HomePage />
             </Route>
             <Route path="/add" exact={true}>
@@ -60,6 +60,7 @@ const App: React.FC = () => {
               <ListPage />
             </Route>
           </IonRouterOutlet>
+          
         </IonSplitPane>
       </IonReactRouter>
     </IonApp>

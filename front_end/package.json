@@ -44,6 +44,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test --transformIgnorePatterns 'node_modules/(?!(@ionic/react|@ionic/react-router|@ionic/core|@stencil/core|ionicons)/)'",
     "eject": "react-scripts eject"
@@ -64,7 +66,8 @@
   ],
   "devDependencies": {
     "@capacitor/cli": "4.7.3",
-    "@ionic/lab": "3.2.15"
+    "@ionic/lab": "3.2.15",
+    "gh-pages": "^5.0.0"
   },
   "description": "An Ionic project"
 }

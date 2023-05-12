@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/crud_ionic_react_node_mysql/static/css/main.2f3c6223.css",
-    "main.js": "/crud_ionic_react_node_mysql/static/js/main.6f07d435.js",
+    "main.js": "/crud_ionic_react_node_mysql/static/js/main.eb72a1b6.js",
     "static/js/443.db4cd61c.chunk.js": "/crud_ionic_react_node_mysql/static/js/443.db4cd61c.chunk.js",
     "static/js/738.689eb499.chunk.js": "/crud_ionic_react_node_mysql/static/js/738.689eb499.chunk.js",
     "static/js/372.0a626bb4.chunk.js": "/crud_ionic_react_node_mysql/static/js/372.0a626bb4.chunk.js",
@@ -16,7 +16,7 @@
     "service-worker.js": "/crud_ionic_react_node_mysql/service-worker.js",
     "index.html": "/crud_ionic_react_node_mysql/index.html",
     "main.2f3c6223.css.map": "/crud_ionic_react_node_mysql/static/css/main.2f3c6223.css.map",
-    "main.6f07d435.js.map": "/crud_ionic_react_node_mysql/static/js/main.6f07d435.js.map",
+    "main.eb72a1b6.js.map": "/crud_ionic_react_node_mysql/static/js/main.eb72a1b6.js.map",
     "443.db4cd61c.chunk.js.map": "/crud_ionic_react_node_mysql/static/js/443.db4cd61c.chunk.js.map",
     "738.689eb499.chunk.js.map": "/crud_ionic_react_node_mysql/static/js/738.689eb499.chunk.js.map",
     "372.0a626bb4.chunk.js.map": "/crud_ionic_react_node_mysql/static/js/372.0a626bb4.chunk.js.map",
@@ -31,6 +31,6 @@
   },
   "entrypoints": [
     "static/css/main.2f3c6223.css",
-    "static/js/main.6f07d435.js"
+    "static/js/main.eb72a1b6.js"
   ]
 }

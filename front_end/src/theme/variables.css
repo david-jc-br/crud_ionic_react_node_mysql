@@ -109,14 +109,14 @@ http://ionicframework.com/docs/theming/ */
 
     --ion-color-success: #2fdf75;
     --ion-color-success-rgb: 47, 223, 117;
-    --ion-color-success-contrast: #000000;
+    --ion-color-success-contrast: #ffffff;
     --ion-color-success-contrast-rgb: 0, 0, 0;
     --ion-color-success-shade: #29c467;
     --ion-color-success-tint: #44e283;
 
     --ion-color-warning: #ffd534;
     --ion-color-warning-rgb: 255, 213, 52;
-    --ion-color-warning-contrast: #000000;
+    --ion-color-warning-contrast: #ffffff;
     --ion-color-warning-contrast-rgb: 0, 0, 0;
     --ion-color-warning-shade: #e0bb2e;
     --ion-color-warning-tint: #ffd948;
@@ -130,14 +130,14 @@ http://ionicframework.com/docs/theming/ */
 
     --ion-color-dark: #f4f5f8;
     --ion-color-dark-rgb: 244, 245, 248;
-    --ion-color-dark-contrast: #000000;
+    --ion-color-dark-contrast: #ffffff;
     --ion-color-dark-contrast-rgb: 0, 0, 0;
     --ion-color-dark-shade: #d7d8da;
     --ion-color-dark-tint: #f5f6f9;
 
     --ion-color-medium: #989aa2;
     --ion-color-medium-rgb: 152, 154, 162;
-    --ion-color-medium-contrast: #000000;
+    --ion-color-medium-contrast: #ffffff;
     --ion-color-medium-contrast-rgb: 0, 0, 0;
     --ion-color-medium-shade: #86888f;
     --ion-color-medium-tint: #a2a4ab;
@@ -198,20 +198,14 @@ http://ionicframework.com/docs/theming/ */
    * Material Design Dark Theme
    * -------------------------------------------
    */
-  .md ion-menu ion-content {
-    --background: var(--ion-item-background, var(--ion-background-color, #fff));
-  }
-  .md ion-header, ion-footer {
-      --ion-background-color: var( --ion-color-light);
-  }
-  .md body{
+
+  .md body {
 
     --ion-font-family: "Malgun Gothic", "Roboto", "Helvetica Neue", "sans-serif";
-    --ion-text-color: var(--ion-color-danger-tint);
-    --ion-background-color: #121212;
+    --ion-background-color: #1e1e1e;
     --ion-background-color-rgb: 18, 18, 18;
 
-    --ion-text-color: #000000;
+    --ion-text-color: #428cff;
     --ion-text-color-rgb: 255, 255, 255;
 
     --ion-border-color: #222222;
@@ -244,4 +238,30 @@ http://ionicframework.com/docs/theming/ */
 
     --ion-card-background: #000000;
   }
+
+  ion-list ion-item {
+    font-size: 0.8em;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    background-color: #000000;
+  }
+
+  ion-title {
+    font-size: small;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+
+  }
+
+  ion-card {
+    background-color: #000000;
+  }
+
+  .card-content-home {
+    color: rgb(255, 255, 255);
+
+
+  }
+
+
 }

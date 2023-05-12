@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/crud_ionic_react_node_mysql/static/css/main.2f3c6223.css",
+    "main.js": "/crud_ionic_react_node_mysql/static/js/main.6f07d435.js",
+    "static/js/443.db4cd61c.chunk.js": "/crud_ionic_react_node_mysql/static/js/443.db4cd61c.chunk.js",
+    "static/js/738.689eb499.chunk.js": "/crud_ionic_react_node_mysql/static/js/738.689eb499.chunk.js",
+    "static/js/372.0a626bb4.chunk.js": "/crud_ionic_react_node_mysql/static/js/372.0a626bb4.chunk.js",
+    "static/js/856.46bfc74c.chunk.js": "/crud_ionic_react_node_mysql/static/js/856.46bfc74c.chunk.js",
+    "static/js/22.f5b64983.chunk.js": "/crud_ionic_react_node_mysql/static/js/22.f5b64983.chunk.js",
+    "static/js/344.f27ff567.chunk.js": "/crud_ionic_react_node_mysql/static/js/344.f27ff567.chunk.js",
+    "static/js/841.4286a619.chunk.js": "/crud_ionic_react_node_mysql/static/js/841.4286a619.chunk.js",
+    "static/js/186.65a86252.chunk.js": "/crud_ionic_react_node_mysql/static/js/186.65a86252.chunk.js",
+    "static/js/573.e492dcee.chunk.js": "/crud_ionic_react_node_mysql/static/js/573.e492dcee.chunk.js",
+    "static/js/225.45d54504.chunk.js": "/crud_ionic_react_node_mysql/static/js/225.45d54504.chunk.js",
+    "static/js/377.9eed6a13.chunk.js": "/crud_ionic_react_node_mysql/static/js/377.9eed6a13.chunk.js",
+    "service-worker.js": "/crud_ionic_react_node_mysql/service-worker.js",
+    "index.html": "/crud_ionic_react_node_mysql/index.html",
+    "main.2f3c6223.css.map": "/crud_ionic_react_node_mysql/static/css/main.2f3c6223.css.map",
+    "main.6f07d435.js.map": "/crud_ionic_react_node_mysql/static/js/main.6f07d435.js.map",
+    "443.db4cd61c.chunk.js.map": "/crud_ionic_react_node_mysql/static/js/443.db4cd61c.chunk.js.map",
+    "738.689eb499.chunk.js.map": "/crud_ionic_react_node_mysql/static/js/738.689eb499.chunk.js.map",
+    "372.0a626bb4.chunk.js.map": "/crud_ionic_react_node_mysql/static/js/372.0a626bb4.chunk.js.map",
+    "856.46bfc74c.chunk.js.map": "/crud_ionic_react_node_mysql/static/js/856.46bfc74c.chunk.js.map",
+    "22.f5b64983.chunk.js.map": "/crud_ionic_react_node_mysql/static/js/22.f5b64983.chunk.js.map",
+    "344.f27ff567.chunk.js.map": "/crud_ionic_react_node_mysql/static/js/344.f27ff567.chunk.js.map",
+    "841.4286a619.chunk.js.map": "/crud_ionic_react_node_mysql/static/js/841.4286a619.chunk.js.map",
+    "186.65a86252.chunk.js.map": "/crud_ionic_react_node_mysql/static/js/186.65a86252.chunk.js.map",
+    "573.e492dcee.chunk.js.map": "/crud_ionic_react_node_mysql/static/js/573.e492dcee.chunk.js.map",
+    "225.45d54504.chunk.js.map": "/crud_ionic_react_node_mysql/static/js/225.45d54504.chunk.js.map",
+    "377.9eed6a13.chunk.js.map": "/crud_ionic_react_node_mysql/static/js/377.9eed6a13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f3c6223.css",
+    "static/js/main.6f07d435.js"
+  ]
+}
